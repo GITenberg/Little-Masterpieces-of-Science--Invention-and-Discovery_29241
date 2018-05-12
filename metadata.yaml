@@ -1,0 +1,33 @@
+_repo: Little-Masterpieces-of-Science--Invention-and-Discovery_29241
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Iles, George
+    birthdate: 1852
+    deathdate: 1942
+    gutenberg_agent_id: '697'
+    url: http://www.gutenberg.org/2009/agents/697
+description: ''
+gutenberg_issued: '2009-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventions'
+- !lcc 'T'
+tableOfContents: 'Franklin, B. Lightning identified with electricity -- Faraday, M.
+  Preparing the way for the electric dynamo and motor -- Henry, J. Invention of the
+  electric telegraph -- Iles, G. The first Atlantic cables -- Bell, A. G. The invention
+  of the telephone -- Dam, H. J. W. Photographing the unseen -- Iles, G. The wireless
+  telegraph -- Iles, G. Electricity, what its mastery means: with a review and a prospect
+  -- Rumford, Count (B. Thompson) Heat and motion identified -- Stephenson, G. The
+  "Rocket" locomotive and its victory.'
+title: 'Little Masterpieces of Science: Invention and Discovery'
+url: http://www.gutenberg.org/ebooks/29241
